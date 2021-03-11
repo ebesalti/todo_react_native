@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Todo",
+    "name": "My Todos",
     "slug": "Todo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,12 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.56media.todo"
+
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFFFFF",
+                        "package": "com.media56.reacttodo"
       }
     },
     "web": {

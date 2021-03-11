@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         marginTop: 10,
         margin: 16,
         borderRadius: 10,
-        backgroundColor: '#ddd',
+        backgroundColor: '#9EFAFA',
         shadowColor: '#ddd',
         shadowRadius: 20,
         flexDirection: 'row',
